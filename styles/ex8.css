@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(175, 175, 175);
+}
+
+.lista {
+    list-style-image: url("https://img.icons8.com/?size=30&id=101339&format=png");
+}
+
+.lista1 {
+    margin: 30px;
+    border: 5px solid var(--amarelo);
+    border-radius: 20px;
+}
+
+.lista2 {
+    list-style-image: url("https://img.icons8.com/?size=30&id=60003&format=png");
+}

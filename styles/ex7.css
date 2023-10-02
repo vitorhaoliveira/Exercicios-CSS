@@ -1,0 +1,33 @@
+@import url("https://fonts.cdnfonts.com/css/monaco-2");
+
+body {
+    background-color: var(--amarelo);
+    color: navy;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.titulo {
+    text-align: center;
+    border-bottom: dashed red;
+    margin: 20px 30px;
+    font-size: 60px;
+}
+
+.titulo2 {
+    border-bottom: 5px double #33FFFF;;
+    color: purple;
+}
+
+.texto {
+    margin: 40px 30px;
+    border: 3px solid;
+    border-radius: 10px;
+    padding: 30px;
+    font-weight: bold;
+}
+
+.texto2 {
+    background-color: var(--verde);
+    font-family:  'MONACO', sans-serif;
+    font-size: 25px;
+}

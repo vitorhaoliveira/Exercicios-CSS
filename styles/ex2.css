@@ -1,0 +1,14 @@
+.texto1 {
+    background-color: var(--azul);
+    margin: 10px 0 0 0;
+}
+
+.texto2 {
+    background-color: var(--amarelo);
+    margin: 10px 50% 0 0;
+}
+
+.texto3 {
+    background-color: var(--verde);
+    margin: 10px 70% 0 0;
+}

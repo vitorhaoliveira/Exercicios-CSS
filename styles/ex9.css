@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(161, 161, 161);
+}
+
+.texto {
+    background-color: var(--amarelo);
+    padding: 20px;
+    margin: 20px 40% 20px 20px;
+}
+
+.texto-caixa {
+    display: flex;
+    background-color: var(--azul);
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin: 20px 20px;
+}
+
+.imagem {
+    width: 100px;
+    height: 100px;
+    margin: 0 5px 0 30px;
+}
+
+.texto2 {
+    margin: 0px;
+    padding: 0px;
+}
+
+.texto3 {
+    background-color: var(--verde);
+    padding: 20px;
+    margin: 20px 20px 20px 25%;
+}

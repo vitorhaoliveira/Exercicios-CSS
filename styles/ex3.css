@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(94, 94, 94);
+    margin: 20px 20px 0 0;
+}
+
+.texto1 {
+    background-color: var(--amarelo);
+}
+
+.texto2 {
+    background-color: var(--azul);
+    border: 2px dashed black;
+    margin: 0 0 0 20%;
+}
+
+.texto3 {
+    background-color: var(--verde);
+    margin: 20px 0 0 50%;
+}
